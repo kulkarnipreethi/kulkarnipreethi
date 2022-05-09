@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kulkarnipreethi
-- 👀 I’m interested in working with corporate company
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on corporate companies
+- 👀 I’m interested in learning new technology
+- 🌱 I’m currently learning cloud computing
 - 📫 How to reach me through kulkarnipreethi1301@gmail.com
 
 <!---
